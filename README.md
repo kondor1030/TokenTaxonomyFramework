@@ -135,7 +135,7 @@ A fungible token is identified by **&tau;<sub>F</sub>** symbol.
 
 A non-fungible token is unique. Hence a non-fungible token is not interchangeable with other tokens of the same type as they typically have different values.  A property title is a good example of a non-fungible token where the title to a broken-down shack is not of the same value as as the title to a mansion.
 
-A fungible token is identified by **&tau;<sub>N</sub>**.
+A non-fungible token is identified by **&tau;<sub>N</sub>**.
 
 ### Representation Type
 
